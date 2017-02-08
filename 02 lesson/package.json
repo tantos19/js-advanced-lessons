@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/martinjirku/js-advanced-lessons#readme",
   "dependencies": {
+    "simple-blog-ui": "git://github.com/vlad-saling/simple-blog-ui.git",
     "total.js": "^2.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   }
 }
